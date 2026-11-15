@@ -1,6 +1,6 @@
 # 中大校園快報（NCU Resilience AI）｜課程專題
 
-AI 知行合一期末專題，第一組；同時參加 Microsoft × NCU AI Innovation Demo Day。
+參加 Microsoft × NCU AI Innovation Demo Day。
 
 這個 repo 放的是我在本課負責的工作：規格整理、問卷與驗證、簡報與發表。
 
@@ -14,7 +14,7 @@ AI 知行合一期末專題，第一組；同時參加 Microsoft × NCU AI Innov
 
 | 工作 | 內容 | 放在哪裡 |
 | --- | --- | --- |
-| 規格整理 | 依計畫書、W8 講評、競賽辦法與平台實際功能，整理系統規格與專題規劃 | `spec.md`、`docs/plan.md` |
+| 規格整理 | 依計畫書、競賽辦法與平台實際功能，整理系統規格與專題規劃 | `spec.md`、`docs/plan.md` |
 | 問卷 | 腳踏車失竊問卷的題目、去識別化資料與分析 | `survey/` |
 | AI 驗證 | 用真實樣本檢查平台 AI 的擷取、分類、事件合併是否正確，並和人工整理比較 | `eval/` |
 | 驗收測試 | 依 spec 第 11 節驗收條件 A1–A11 實測，記錄發現的問題並回報開發團隊 | `docs/test-log.md` |
@@ -46,7 +46,7 @@ AI 知行合一期末專題，第一組；同時參加 Microsoft × NCU AI Innov
 | 用途 | 工具 |
 | --- | --- |
 | 整理 spec.md 與 plan.md | Claude |
-| 簡報初稿 | 【待填】 |
+| 簡報初稿 | Copilot、PowerPoint |
 | 問卷分析程式 | 【待填】 |
 
 AI 產出的內容都經過我檢查與修改，過程記錄在 [docs/ai-log.md](docs/ai-log.md)。
