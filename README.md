@@ -10,6 +10,26 @@
 
 平台功能：把學校公告、新聞、社群與匿名回報中的校園事件，由 AI 整理成快報、歸成系列，並追蹤學校的改善措施。主案例是**腳踏車失竊**。詳細規格見 [spec.md](spec.md)。
 
+## 平台連結
+
+| 網站 | 網址 | 說明 |
+| --- | --- | --- |
+| 示範公開站 | https://diameter-anatomy-tracked-explained.trycloudflare.com/ | 虛構資料，展示使用者端完整功能 |
+| 示範管理端 | https://diameter-anatomy-tracked-explained.trycloudflare.com/admin/anonymous-reports | 虛構資料，展示管理者端完整功能 |
+| 正式公開站 | https://bio-buildings-gathered-strengths.trycloudflare.com | 真實資料 |
+
+- 網址是臨時通道，可能會變動或暫時無法開啟；以截圖或Demo 影片為準：【影片連結待補】
+- 管理後台需要帳號，不對外提供。
+
+## 畫面截圖
+以下截圖來自示範站，資料為虛構，只用來展示功能。
+
+![快報首頁](docs/images/01-home.png)
+![腳踏車失竊系列分析](docs/images/02-series.png)
+![改善前後比較](docs/images/03-before-after.png)
+![校園韌性成績單](docs/images/04-resilience.png)
+![匿名回報](docs/images/05-report.png)
+
 ## 我在本課負責的部分
 
 | 工作 | 內容 | 放在哪裡 |
