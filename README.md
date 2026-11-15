@@ -24,11 +24,10 @@
 ## 畫面截圖
 以下截圖來自示範站，資料為虛構，只用來展示功能。
 
-![快報首頁](docs/images/01-home.png)
-![腳踏車失竊系列分析](docs/images/02-series.png)
-![改善前後比較](docs/images/03-before-after.png)
-![校園韌性成績單](docs/images/04-resilience.png)
-![匿名回報](docs/images/05-report.png)
+![使用者端快報首頁](docs/images/user-home.png)
+![使用者端韌性成績單](docs/images/user-resilience.png)
+![管理端匿名回報](docs/images/manage-report.png)
+![管理端韌性成績單](docs/images/manage-resilience.png)
 
 ## 我在本課負責的部分
 
