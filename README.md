@@ -18,7 +18,7 @@
 | 示範管理端 | https://diameter-anatomy-tracked-explained.trycloudflare.com/admin/anonymous-reports | 虛構資料，展示管理者端完整功能 |
 | 正式公開站 | https://bio-buildings-gathered-strengths.trycloudflare.com | 真實資料 |
 
-- 網址是臨時通道，可能會變動或暫時無法開啟；以截圖或Demo 影片為準：【影片連結待補】
+- 網址是臨時通道，可能會變動或暫時無法開啟；以截圖或 Demo 影片為準
 - 管理後台需要帳號，不對外提供。
 
 ## 畫面截圖
